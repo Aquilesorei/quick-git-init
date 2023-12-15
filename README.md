@@ -16,7 +16,7 @@ This script simplifies the process of setting up a new Git repository on your lo
 
 **Usage:**
 
-1. Save the script as `git-init.sh` in your project directory.
+1. Save the script as `giti.sh` in your project directory.
 2. Open a terminal in the project directory.
 3. Run the script with the following command:
 
