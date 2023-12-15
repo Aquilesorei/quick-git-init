@@ -21,7 +21,7 @@ This script simplifies the process of setting up a new Git repository on your lo
 3. Run the script with the following command:
 
 ```
-bash git-init.sh
+bash giti.sh
 ```
 
 4. Follow the prompts to enter the Git remote URL.
